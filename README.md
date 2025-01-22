@@ -1,16 +1,17 @@
-## Hi there 👋
+## Привет, меня зовут Бақытжан
 
-<!--
-**exviolet/exviolet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я - Начинающий Junior Frontend Разработчик. Так же я студент, учусь на "Программное обеспечение" в колледже KSA(KAZAKHSTANI SWISS AMERICAN)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мой стек технологий
+
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FF4500"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/MSSQL-DC143C?style=for-the-badge&logo=&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+## Tools
+
+<img src="https://img.shields.io/badge/obsidian-black?style=for-the-badge&logo=obsidian&logoColor=7C3AED"/> <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=FF4500"/> <img src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/> <img src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=7C3AED"/>
+
+## Mobile development
+
+<img src="https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin&logoColor=#7F52FF"/> <img src="https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=0175C2"/> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
