@@ -12,7 +12,7 @@
 
 ## Мой стек технологий
 
-<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FF4500"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/MSSQL-DC143C?style=for-the-badge&logo=&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FF4500"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/MSSQL-DC143C?style=for-the-badge&logo=&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=3776AB"/>
 
 ## Tools
 
