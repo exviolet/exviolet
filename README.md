@@ -22,7 +22,7 @@
 
 ## Tools
 
-<img src="https://img.shields.io/badge/obsidian-black?style=for-the-badge&logo=obsidian&logoColor=7C3AED"/> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=FF4500"/> <img src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/> <img src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=7C3AED"/>
+<img src="https://img.shields.io/badge/obsidian-black?style=for-the-badge&logo=obsidian&logoColor=7C3AED"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=FF4500"/> <img src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/> <img src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=7C3AED"/>
 
 ## Mobile development
 
