@@ -7,6 +7,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,scss,angular,reactivex,react,nextjs,redux,vite,npm,bun,git,nginx,linux,bash,neovim,supabase,sqlite,figma)](https://skillicons.dev)
 
-<h2 align="center">🔮 Интересные технологии , которые я собираюсь изучить в будущем:</h2>
+<details>
+  <summary>
+    <h2>🔮 Интересные технологии , которые я собираюсь изучить в будущем:</h2>
+  </summary>
 
 [![Interesting techs](https://skillicons.dev/icons?i=nestjs,tailwindcss,styledcomponents,graphql,deno,redis,postgres,prisma,dart,flutter)](https://skillicons.dev)
+
+</details>
