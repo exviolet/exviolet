@@ -5,13 +5,13 @@
 
 <h2 align="center">🛠 Tech & Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,scss,angular,reactivex,react,nextjs,redux,vite,npm,bun,git,nginx,linux,bash,neovim,supabase,sqlite,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,scss,tailwindcss,angular,reactivex,react,nextjs,redux,vite,npm,bun,git,nginx,linux,bash,neovim,supabase,sqlite,figma)](https://skillicons.dev)
 
 <details>
   <summary>
     <h2>🔮 Интересные технологии , которые я собираюсь изучить в будущем:</h2>
   </summary>
 
-[![Interesting techs](https://skillicons.dev/icons?i=nestjs,tailwindcss,styledcomponents,graphql,deno,redis,postgres,prisma,dart,flutter)](https://skillicons.dev)
+[![Interesting techs](https://skillicons.dev/icons?i=nestjs,graphql,redis,postgres,prisma,dart,flutter)](https://skillicons.dev)
 
 </details>
