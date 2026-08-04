@@ -1,29 +1,23 @@
-<h1 align="center">👋 Всем привет! я Бакытжан🎧</h1>
-<h3 align="center">👨‍💻 Я - Frontend Разработчик, из 🇰🇿 Казахстана</h3>
+# Bakytzhan Izbasarov
 
-🚀 В основном я интересуюсь веб-разработкой на Angular и Next.js, так же интересуюсь и 📱 мобильной разработкой на React Native, Expo. Хотя я и Frontend разработчик но мне так же интересен Linux 🐧. Фокусируюсь на современных веб-технологиях 🔍.
+`ex1te` — frontend developer based in Kazakhstan.
 
-<h2 align="center">🛠 Tech & Tools</h2>
+I build focused interfaces and local-first tools around real workflows. My work sits between frontend engineering, Linux desktop software, and practical AI-assisted systems.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,scss,tailwindcss,angular,reactivex,vite,npm,bun,git,nginx,linux,bash,neovim,supabase,sqlite,figma)](https://skillicons.dev)
+## Current work
 
-<details>
-  <summary>
-    <h2>🔮 Интересные технологии , которые я собираюсь изучить в будущем:</h2>
-  </summary>
-  
-  <p align="left">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="50" height="50" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="50" height="50" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="50" height="50" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/biome/biome-original.svg" width="50" height="50" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50" height="50" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="50" height="50" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="50" height="50" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="50" height="50" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" height="50" />
-  </p>
-  
-</details>
+- **[Rewrite](https://github.com/exviolet/rewrite)** — a fast, local, keyboard-driven editor for drafting prompts and sending them directly to terminal agents.
+- **[Rewrite Desktop](https://github.com/exviolet/rewrite-desktop)** — a Linux-native Tauri shell that connects Rewrite with `tmux`, Herdr, and Orca.
+- **[ex1te Personal Platform](https://github.com/exviolet/ex1te-personal-platform)** — my editorial field station for writing, projects, experiments, and notes from real work.
+
+## What I care about
+
+Thoughtful interfaces, developer ergonomics, local-first software, Linux desktop tooling, and AI workflows shaped by actual use rather than abstract automation.
+
+## Working with
+
+TypeScript, React, Astro, Angular, React Native, Expo, Tauri, Bash, Lua, and Linux.
+
+## Elsewhere
+
+My writing, projects, and experiments live at **[ex1te.pages.dev](https://ex1te.pages.dev)**.
